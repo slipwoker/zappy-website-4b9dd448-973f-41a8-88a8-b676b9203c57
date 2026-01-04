@@ -1,0 +1,57 @@
+# Mesbah — Generative Engine Optimization Map
+
+> A education/e-learning business.
+
+---
+
+## Pages
+
+### Home
+https://mesbah-4b9dd448.zappy5.app
+Discover expert online digital marketing courses and data science programs designed for complete beginners. Start your learning journey today!
+
+### Courses
+https://mesbah-4b9dd448.zappy5.app/services
+Explore our comprehensive online digital marketing courses and data science programs. Beginner-friendly curriculum with flexible learning options.
+
+### About
+https://mesbah-4b9dd448.zappy5.app/about
+Learn about Mesbah's mission to make online digital marketing courses and data science education accessible to everyone, regardless of background.
+
+### Contact
+https://mesbah-4b9dd448.zappy5.app/contact
+Ready to begin? Contact Mesbah to learn more about our online digital marketing courses and data science programs. Get started today!
+
+## Legal & Policy
+
+### Privacy Policy
+https://mesbah-4b9dd448.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://mesbah-4b9dd448.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://mesbah-4b9dd448.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Mesbah
+Mesbah is a business in the education/e-learning industry.
+
+## Target Audience
+complete beginners
+
+## Industry
+education/e-learning
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://mesbah-4b9dd448.zappy5.app/sitemap.xml
+- **Robots.txt**: https://mesbah-4b9dd448.zappy5.app/robots.txt

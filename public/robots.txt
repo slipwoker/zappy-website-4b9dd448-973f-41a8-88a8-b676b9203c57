@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mesbah-4b9dd448.zappy5.app/sitemap.xml
